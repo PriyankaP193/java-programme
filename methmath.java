@@ -29,10 +29,4 @@ class methmath{
         System.out.println("log: "+Math.log(d));
         System.out.println("exp: "+Math.exp(d));
 
-
-
-
-
-
-
-    }}
+   }}
